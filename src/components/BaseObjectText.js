@@ -1,0 +1,1 @@
+export const baseObjectText = "/*This SQL query will create the table to store your object.CREATE TABLE `test` (`testid` int(11) NOT NULL auto_increment,`col1` VARCHAR(255) NOT NULL,`col2` VARCHAR(255) NOT NULL,`col3` VARCHAR(255) NOT NULL, PRIMARY KEY  (`testid`)) ENGINE=MyISAM; */";
